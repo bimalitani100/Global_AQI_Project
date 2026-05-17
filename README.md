@@ -43,17 +43,17 @@ The system focuses on:
 ---
 
 ## 🏗️ System Architecture
-Data Sources (AQI APIs)
-↓
-Data Ingestion Layer (Python Scripts)
-↓
-ETL Pipeline (Cleaning + Transformation)
-↓
-Database Layer (MySQL / PostgreSQL)
-↓
-Analytics Layer (SQL Queries + Pandas)
-↓
-Visualization (Matplotlib / Power BI)
+- Data Sources (AQI APIs)
+      ↓
+- Data Ingestion Layer (Python Scripts)
+      ↓
+- ETL Pipeline (Cleaning + Transformation)
+      ↓
+- Database Layer (MySQL / PostgreSQL)
+      ↓
+- Analytics Layer (SQL Queries + Pandas)
+      ↓
+- Visualization (Matplotlib / Power BI)
 
 
 ---
